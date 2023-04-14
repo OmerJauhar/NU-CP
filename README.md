@@ -1,11 +1,11 @@
 ## NU-CPS
 # Setup
 Clone using 
-    `git clone https://github.com/OmerJauhar/NU-CPS.git`    
+    ``` git clone https://github.com/OmerJauhar/NU-CPS.git ```    
 change File permission   
-    `chmod +x setup-hooks.sh`   
+    ``` chmod +x setup-hooks.sh ```   
 run the script  
-    `./setup-hooks.sh`  
+    ``` ./setup-hooks.sh ```  
     
 
 # Information and Rules  
